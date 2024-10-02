@@ -13,6 +13,7 @@
     <img align="center" alt="php" src="https://img.shields.io/badge/PHP-1d5c95?style=for-the-badge&logo=php&logoColor=white" />
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MYSQL-0679e2?style=for-the-badge&logo=mysql&logoColor=white" />
     <img align="center" alt="wordpress" src="https://img.shields.io/badge/WORDPRESS-4d56e2?style=for-the-badge&logo=wordpress&logoColor=white" />
+    <img align="center" alt="go" src="https://img.shields.io/badge/GOLANG-4d56e2?style=for-the-badge&logo=go&logoColor=white" />
     
 
 </div> <br/>
