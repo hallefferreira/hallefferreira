@@ -1,8 +1,34 @@
-### Seja bem-vindo(a) ao meu repositório. Para saber mais sobre minha experiência e projetos, convido-o(a) a visitar meu perfil no LinkedIn. :)
+# 👋 Olá, eu sou o Hallef Ferreira
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hallef-ferreira-01b4a6342/)
+Bem-vindo ao meu perfil do GitHub!  
+Sou **estagiário de desenvolvimento Protheus**, focado em evoluir cada dia mais no ecossistema **TOTVS**, com ênfase em **ADVPL, MVC e regras de negócio**.
 
+---
 
+## 💼 Sobre mim
 
+- 🎓 Estagiário de Desenvolvimento Protheus
+- 🧠 Interesse em entender o sistema **além do código**, incluindo regras, cadastros e processos
+- 📚 Evoluindo diariamente em desenvolvimento e configuração do ERP
 
-</div> <br/>
+---
+
+## 🧰 Tecnologias & Ferramentas
+
+- **ADVPL / Protheus MVC**
+- **Git & GitHub**
+- **Linux**
+- **Docker** 
+
+---
+
+## 📌 O que você vai encontrar aqui
+
+- 📁 Projetos de estudo e evolução em Protheus
+- 🔧 Rotinas customizadas e exemplos práticos
+- ⚙️ Conteúdo envolvendo configuração e comportamento do ERP
+- 📘 Código focado em clareza, aprendizado e boas práticas
+
+---
+
+⭐ Se algum projeto te ajudar, fique à vontade para deixar uma estrela!
