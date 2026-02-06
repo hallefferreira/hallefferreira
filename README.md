@@ -32,3 +32,10 @@ Sou **estagiário de desenvolvimento Protheus**, focado em evoluir cada dia mais
 ---
 
 ⭐ Se algum projeto te ajudar, fique à vontade para deixar uma estrela!
+
+## 🐍 Contributions Snake
+
+![Snake animation](https://github.com/hallefferreira/hallefferreira//blob/output/github-contribution-grid-snake.svg)
+
+<!-- versão dark -->
+![Snake animation dark](https://github.com/hallefferreira//hallefferreira//blob/output/github-contribution-grid-snake-dark.svg)
