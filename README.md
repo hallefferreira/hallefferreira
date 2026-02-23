@@ -1,8 +1,7 @@
 ## 💼 Sobre mim
 
 - 🎓 Estagiário de Desenvolvimento Protheus
-- 🧠 Interesse em entender o sistema **além do código**, incluindo regras, cadastros e processos
-- 📚 Evoluindo diariamente em desenvolvimento e configuração do ERP
+- 🧠 Interesse em entender o sistema **além do código**
 
 ---
 
