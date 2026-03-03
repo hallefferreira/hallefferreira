@@ -1,6 +1,6 @@
 ## 💼 Sobre mim
-
-- 🎓 Estagiário de Desenvolvimento Protheus
+- 💡 Entusiasta de Tecnologia e Gestão Empresarial 
+- 🎓 Desenvolvedor Protheus em Formação
 - 🧠 Interesse em entender o sistema **além do código**
 
 ---
@@ -11,6 +11,8 @@
 - 🔧 Rotinas customizadas e exemplos práticos
 - ⚙️ Conteúdo envolvendo configuração e comportamento do ERP
 - 📘 Código focado em clareza, aprendizado e boas práticas
+- 🔌 APIs & Integrações
+  
 
 ---
 
