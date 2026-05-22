@@ -1,10 +1,3 @@
-## 💼 Sobre mim
-- 💡 Entusiasta de Tecnologia e Gestão Empresarial  
-- 🎓 Desenvolvedor em Formação
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas (IFMA)
-- 🧠 Interesse em entender sistemas além do código  
-- 🖥️ Em aprendizado contínuo com TOTVS Protheus e desenvolvimento em AdvPL, TLPP, Web Services e API REST  
-
 ## 📌 O que você vai encontrar aqui
 - 📁 Projetos de estudo e evolução 
 - 🔧 Rotinas customizadas e exemplos práticos no ERP Protheus 
